@@ -1,0 +1,29 @@
+body{
+    color: antiquewhite;
+    background-color: rgb(39, 3, 3);
+    
+
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    font-size: 40px;
+    color: yellowgreen;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+    font-size: 22px;
+}
